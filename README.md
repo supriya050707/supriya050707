@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS**
 
-- 👨‍💻 All of my projects are available at [My github repository](My github repository)
+- 👨‍💻 All of my projects are available at [My github repository]
 
 - 📫 How to reach me **supriyasenthilj577@gmail.com**
 
